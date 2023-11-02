@@ -6,7 +6,7 @@ I'm a java developer from Sergiev-Posad, Russia. And I'm glad to see you in my p
 
 # Socials
 
-<p align="left">  <a href="https://t.me/syumbeli" target="_blank" rel="noreferrer">
+<p align="left">  <a href="https://t.me/syumbeli3" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="32" height="32" />
 </a> <a href="https://discord.com/users/syumbeli" target="_blank" rel="noreferrer"> <source media="(prefers-color-scheme: dark)" 
 srcset="undefined" /> <source media="(prefers-color-scheme: light)"
