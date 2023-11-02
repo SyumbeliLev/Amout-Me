@@ -1,20 +1,23 @@
-# Amout-Me
-Hi there 👋
-My name is Anastasia. I'm a java developer from Stavropol, Russia. And I'm glad to see you in my profile!
-Socials
- 
+# Hi there 👋
+My name is Lev. I'm a java developer from Setgiev-Posad, Russia. And I'm glad to see you in my profile!
 
-Something about me
-My education
-Java Developer (Yandex Practicum, 2022-2023)
-Oil and Gas Engineering, master's degree (North-Caucasus Federal University, Stavropol, 2013-2015)
-Design, construction and operation of gas and oil pipelines and gas and oil storage facilities, engineer (North-Caucasus Federal University, Stavropol, 2008-2013)
-My projects
-Explore With Me - an analogue of event poster
-Share It - a platform, where you can share your items with other users
-Filmorate - a movie rating service
-Task Manager - a task planning tool
-WeatherApp - a tool for getting actual weather information
-AppForOilProductionOperators - a work order management app for oil production operators
-My stack
+# Socials
+https://t.me/syumbeli3
+
+# Something about me
+
+# My education
+
+⚫Java Developer (2022-2023)
+
+⚫ItHub college, information system and programming(Moscow 2019-2023)
+
+# My projects
+
+[Share It ](https://github.com/SyumbeliLev/java-shareit)- a platform, where you can share your items with other users
+[Fintess](https://github.com/SyumbeliLev/fitness-information-system) - a system for accounting for fitness club services and tariffs
+[Filmorate](https://github.com/SyumbeliLev/java-filmorate) - a movie rating service
+[Task Manager](https://github.com/SyumbeliLev/java-kanban) - a task planning tool
+
+# My stack
 Java  Spring  Hibernate  Lombok  GitHub  GitLab  GitHub Actions  Docker  Linux  Maven  PostgreSQL  MySQL  Postman  Swagger  OpenApi  JSON  XML 
