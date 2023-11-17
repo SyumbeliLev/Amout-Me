@@ -20,7 +20,7 @@ width="32" height="32" />  </a>
 
 # My education
 
-⚫Java Developer (2022-2023)
+⚫Java Developer (2021-2023)
 
 ⚫ItHub college, information system and programming(Moscow 2019-2023)
 
