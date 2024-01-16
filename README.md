@@ -33,6 +33,8 @@ width="32" height="32" />  </a>
 
 # My projects
 
+[Explore With Me](https://github.com/SyumbeliLev/java-explore-with-me) - an analogue of event poster
+
 [Share It ](https://github.com/SyumbeliLev/java-shareit)- a platform, where you can share your items with other users
 
 [Fintess](https://github.com/SyumbeliLev/fitness-information-system) - a system for accounting for fitness club services
